@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Joint Radio Reggae",
+    "genre": [
+      "Reggae",
+      "Roots Reggae",
+      "Dub",
+      "Roots",
+      "Dancehall",
+      "Ska",
+      "Rocksteady",
+      "Reggaeton"
+    ],
+    "stream_url": "https://jointil.com/stream-reggae"
+  },
+  {
+    "name": "Joint Radio Blues Rock",
+    "genre": [
+      "Blues",
+      "Rhythm and Blues",
+      "Rock",
+      "Rock and Roll",
+      "1960s",
+      "Classic Rock",
+      "Psychedelic Rock",
+      "1970s",
+      "Hits"
+    ],
+    "stream_url": "https://jointil.com/stream-blues"
+  },
+  {
+    "name": "Joint Radio Beat",
+    "genre": [
+      "Trance",
+      "Psychedelic trance",
+      "Goa",
+      "Electronic",
+      "Progressive trance",
+      "EDM"
+    ],
+    "stream_url": "https://jointil.com/stream-beat"
+  }
+]
